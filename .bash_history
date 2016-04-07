@@ -580,3 +580,140 @@ git pull https://github.com/SS-2016227423/SystemProgramming.git
 git add 2016227423_PE2.c
 git push origin master
 git pull https://github.com/SS-2016227423/SystemProgramming.git
+ls
+cd 2016227423_PE2-R/
+git init
+ls
+rm README.md
+rm who3.c
+ls
+git push origin master
+cd test_pe2_2
+ls
+cd ..
+git push origin +master
+cd test_pe2_1
+ls
+touch test_pe2_1_3.txt
+ls
+cd ..
+git push origin +master
+git add .
+git status
+git push origin +master
+git commit -m "update"
+git push origin master
+cd ..
+ls
+git init
+rm examples.desktop
+ls
+git commit -am "update"
+git add .
+git commit -am "update"
+git push origin master
+git init
+cd 
+cd 2016227423_PE2-R/
+git init
+git add .
+git add -A
+git status
+git log
+git commit -am "update"
+git push origin master
+ls
+mkdir 2016227423_PE2
+mkdir 2016227423_PE2D
+ls
+mv 2016227423_PE2 ./2016227423_PE2D
+ls
+mv 2016227423_PE2.c ./2016227423_PE2D
+ls
+mv test_pe2_1 ./2016227423_PE2D/
+ls
+mv test_pe2_2 ./2016227423_PE2D/
+ls
+git init
+git commit -am "Dir"
+git add .
+git commit -m "Dir"
+git push origin master
+vi who3.c
+gcc -o who3 who3.c
+ls
+git commit -m "Up"
+git add .
+git commit -m "Up"
+git push origin master
+you
+ls
+git pull
+ls
+git pull https://github.com/SS-2016227423/SystemProgramming.git
+ls
+rm \[\"2016227423_PE2D\"\]/
+ls
+rm ["2016227423_PE2D"]
+ls
+git init
+git add .
+git commit -m "push"
+ls
+git push origin master
+mkdir 2016227423_PE1D
+ls
+mv who3 ./2016227423_PE1D
+mv who3.c ./2016227423_PE1D
+ls
+git init
+git add.
+git commit -m "Push"
+git add .
+git commit -m "Push"
+git push origin master
+ls
+git pull https://github.com/SS-2016227423/SystemProgramming.git
+ls
+git pull https://github.com/SS-2016227423/SystemProgramming.git
+ls
+rm ["2016227423_PE2D"]
+mv ["2016227423_PE2D"] ./2016227423_PE2D
+ls
+git pull https://github.com/SS-2016227423/SystemProgramming.git
+ls
+git add .
+git commit -m "PUSH"
+git push origin master
+git pull https://github.com/SS-2016227423/SystemProgramming.git
+ls
+git commit -m "PUSH"
+git push origin master
+ls
+git pull
+git push origin master
+git commit -m "PUSH"
+git push origin master
+git pull
+ls
+git pull https://github.com/SS-2016227423/SystemProgramming.git
+ls
+cd \[\"2016227423_PE2D\"\]/
+mv 2016227423_PE2.JPG ../2016227423_PE2D
+ls
+cd ..
+ls
+rm ["[\"2016227423_PE2D\"]"/
+ls
+cd 2016227423_PE2D
+ls
+cd ..
+git init
+git commit -m "PUSH"
+git push origin master
+ls
+git status
+git init
+git add .
+git commit -m "PUSH"
+git push origin master

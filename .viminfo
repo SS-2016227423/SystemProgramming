@@ -8,7 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~Msle0~/)
+~MSle0~/* spwd.c: a simplified version of pwd
 
 # Command Line History (newest to oldest):
 :wq
@@ -19,6 +19,7 @@
 :set past
 
 # Search String History (newest to oldest):
+?/* spwd.c: a simplified version of pwd
 ? \<nclude\>
 ? )
 
@@ -31,7 +32,7 @@
 # Registers:
 "0	LINE	0
 	tthis his is vi editor
-""1	LINE	0
+"1	LINE	0
 				 dostat(direntp->d_name)
 "2	LINE	0
 	         dostat( direntp->d_name );
@@ -65,22 +66,44 @@
 "s	CHAR	0
 	1259
 <dfasdf€kb€kb€kb}struct utmp *utmp_next() {   struct utmp *recp;   if (fd_utmp == -1)      return NULLUT;   if (cur_rec == num_recs && utmp_reload() == 0)      return NULLUT;   recp = (struct utmp *) &utmpbuf[cur_rec * UTSIZE];   cur_rec++;   return recp;}int utmp_open(char *filename) {   fd_utmp = open(filename, O_RDONLY);   cur_rec = num_recs = 0;   return fd_utmp;}void utmp_close() {   if (fd_utmp != -1)      close(fd_utmp);}int utmp_reload() {   int amt_read;   amt_read = read(fd_utmp, utmpbuf, NRECS * UTSIZE);   num_recs = amt_read / UTSIZE;   cur_rec = 0;   return num_recs;}€kI€kIasdf€kb€kb€kb€kb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kdw
-"-	CHAR	0
-	 
+""-	CHAR	0
+	i
 
 # File marks:
-'0  47  3  ~/2016227423_PE2-R/test.c
-'1  1  1  ~/2016227423_PE2-R/test.c
-'2  1  6  ~/2016227423_PE2-R/test_pe2_1/test_pe2_1_2
-'3  267  0  ~/2016227423_PE2-R/test.c
-'4  286  0  ~/2016227423_PE2-R/test.c
-'5  831  6  ~/2016227423_PE2-R/test.c
-'6  809  1  ~/2016227423_PE2-R/test.c
-'7  867  6  ~/2016227423_PE2-R/test.c
-'8  919  19  ~/2016227423_PE2-R/test.c
-'9  79  3  ~/2016227423_PE2-R/2016227423_PE2-R.c
+'0  1  1  ~/2016227423_PE3/test2.c
+'1  827  0  ~/2016227423_PE3/test2.c
+'2  1003  11  ~/2016227423_PE3/test2.c
+'3  31  25  ~/2016227423_PE3/test.c
+'4  1  1  ~/2016227423_PE3/test.c
+'5  220  5  ~/2016227423_PE3/test.c
+'6  213  2  ~/2016227423_PE3/test.c
+'7  212  18  ~/2016227423_PE3/test.c
+'8  384  19  ~/2016227423_PE3/test.c
+'9  399  7  ~/2016227423_PE3/test.c
 
 # Jumplist (newest first):
+-'  1  1  ~/2016227423_PE3/test2.c
+-'  827  0  ~/2016227423_PE3/test2.c
+-'  1003  11  ~/2016227423_PE3/test2.c
+-'  31  25  ~/2016227423_PE3/test.c
+-'  1  0  ~/2016227423_PE3/test.c
+-'  220  5  ~/2016227423_PE3/test.c
+-'  213  2  ~/2016227423_PE3/test.c
+-'  212  18  ~/2016227423_PE3/test.c
+-'  384  19  ~/2016227423_PE3/test.c
+-'  399  7  ~/2016227423_PE3/test.c
+-'  391  16  ~/2016227423_PE3/test.c
+-'  571  0  ~/2016227423_PE3/test.c
+-'  573  0  ~/2016227423_PE3/test.c
+-'  579  6  ~/2016227423_PE3/test.c
+-'  568  14  ~/2016227423_PE3/test.c
+-'  575  3  ~/2016227423_PE3/test.c
+-'  545  11  ~/2016227423_PE3/test.c
+-'  632  0  ~/2016227423_PE3/test.c
+-'  13  18  ~/2016227423_PE3/2016227423_PE3.c
+-'  1  0  ~/2016227423_PE3/2016227423_PE3.c
+-'  63  1  ~/2016227423_PE3/2016227423_PE3.c
+-'  1  1  ~/2016227423_PE2-R/who3.c
 -'  47  3  ~/2016227423_PE2-R/test.c
 -'  1  0  ~/2016227423_PE2-R/test.c
 -'  1  6  ~/2016227423_PE2-R/test_pe2_1/test_pe2_1_2
@@ -156,31 +179,91 @@
 -'  28  11  ~/SPtest/who3.c
 -'  6  0  /usr/share/vim/vim74/doc/help.txt
 -'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  87  0  ~/SPtest/who3.c
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
+-'  681  0  ~/2016227423_PE3/test2.c
 
 # History of marks within files (newest to oldest):
+
+> ~/2016227423_PE3/test2.c
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1113	0
+	+	1	1
+	+	1003	12
+	+	974	0
+	+	1	53
+	+	827	3
+	+	826	0
+	+	1	42
+	+	680	0
+	+	1	42
+	+	533	0
+	+	1	42
+	+	386	0
+	+	1	42
+	+	238	0
+	+	1	42
+	+	93	0
+	+	1	1
+
+> ~/2016227423_PE3/test.c
+	"	31	25
+	^	31	26
+	.	31	25
+	+	718	0
+	+	1	42
+	+	627	0
+	+	1	2
+	+	547	18
+	+	569	1
+	+	580	0
+	+	576	3
+	+	568	7
+	+	579	13
+	+	568	22
+	+	579	7
+	+	580	0
+	+	568	35
+	+	570	1
+	+	535	0
+	+	1	42
+	+	447	0
+	+	1	1
+	+	384	21
+	+	391	16
+	+	384	19
+	+	397	3
+	+	399	7
+	+	384	19
+	+	357	0
+	+	1	42
+	+	272	0
+	+	1	1
+	+	212	2
+	+	210	19
+	+	211	23
+	+	214	0
+	+	220	5
+	+	178	0
+	+	1	42
+	+	87	0
+	+	1	1
+	+	31	25
+
+> ~/2016227423_PE3/2016227423_PE3.c
+	"	13	18
+	^	13	19
+	.	13	18
+	+	92	0
+	+	1	2
+	+	13	18
+
+> ~/2016227423_PE2-R/who3.c
+	"	1	1
+	^	1	2
+	.	1	1
+	+	89	0
+	+	1	1
 
 > ~/2016227423_PE2-R/test.c
 	"	47	3
