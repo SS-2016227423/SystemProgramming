@@ -717,3 +717,311 @@ git init
 git add .
 git commit -m "PUSH"
 git push origin master
+ls
+mkdir 2016227423_PE3
+ls
+cd 2016227423_PE3/
+ls
+vi 2016227423_PE3.c
+ls
+gcc 2016227423_PE3 2016227423_PE3.c 
+gcc -o test 2016227423_PE3.c 
+vi 2016227423_PE3.c 
+gcc -o test 2016227423_PE3.c 
+gcc -o test 2016227423_PE3.c
+ls
+rv test 
+rm test
+rm 2016227423_PE3.c 
+ls
+vi test.c
+gcc -o test test.c
+ls
+rm test
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+vi test.c
+ls
+gcc -o test test.c
+cc -o test test.c
+ls
+gcc -o test test.c
+ls
+./test
+cd ..
+ls
+cd 2016227423_PE3
+ls
+mv test ..
+ls
+cd ..
+ls
+./test
+mv test 2016227423_PE3
+cd 2016227423_PE3
+ls
+./test
+vi test.c
+ls
+gcc -o test test.c
+./test
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test
+vi test.c
+ls
+gcc -o test test.c
+./test
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test
+ls
+rm test.c
+rm test
+ls
+vi test.c
+gcc -o test test.c
+ls
+./test
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test
+vi test.c
+ls
+gcc -o test test.c
+./test
+vi test.c
+ls
+./test
+gcc -o test test.c
+./test
+vi test.c
+ls
+gcc -o test test.c
+./test
+vi test.c
+ls
+gcc -o test test.c
+vi test.c
+gcc -o test test.c
+./test
+vr test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+./test
+vi test.c
+ls
+gcc -o test test.c
+./test
+rm test.c
+rm test
+ls
+vi test.c
+gcc -o test test.c
+./test
+ls
+rm  test
+rm test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+./test
+vi test.c
+gcc -o test test.c
+./test
+vi test.c
+gcc -o test test.c
+./test
+vi test.c
+ls
+gcc -o test test.c
+./test
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+./test
+ls
+rm test.
+rm test
+rm test.c
+vi test.c
+gcc -o test test.c
+ls
+./test
+vi test.c
+gcc -o test test.c
+./test
+ls
+rm test
+vi test2.c
+ls
+gcc -o test test2.c
+ls
+gcc -o test test2.c
+vi test2.c
+gcc -o test test2.c
+ls
+./test
+rm test2.c
+ls
+vi test2.c
+gcc -o test test2.c
+ls
+./test
+rm test2.c
+ls
+vi test2.c
+ls
+rm test2.c
+ls
+vi test2.c
+ls
+gcc -o test test2.c
+./test
+ls
+rm test
+rm test2.c
+vi test2.c
+ls
+gcc -o test test2.c
+ls
+./test
+rm test
+rm test2.c
+vi test2.c
+ls
+gcc -o test test2.c
+ls
+./test
+ls
+rm test
+rm test2.c
+vi test2.c
+ls
+gcc -o test test2.c
+ls
+./test
+rm test
+rm test2.c
+ls
+vi test2.c
+gcc -o test test2.c
+ls
+./test
+./ test
+./test
+ls
+rm test
+rm test2.c
+rm test.c
+ls
+vi test2.c
+ls
+gcc -o test test2.c
+ls
+./test
+ls
+gcc -o 2016227423_PE3 test2.c
+ls
+./2016227423_PE3 
+rm test
+cd ..
+ls
+git pull
+git add .
+git pull
+ls
+clear
+cd 2016227423_PE3
+ls
+./2016227423_PE3 
+ls
+cd ..
+ls
+cd ..
+ls
+cd sp2016227423
+ls
+git pull
+git push -u origin master
+git commit -m GG
+git push -u origin master
+git pull
+ls
+git init
+git add .
+git commit -m "GG"
+git pull
+git remote add https://github.com/SS-2016227423/SystemProgramming.git
+git remote -v
+ls
+git init
+git add .
+gir add all
+git add all
+git add -a
+gir add -A
+git add -A
+ls
+git push -u origin master
+git clone https://github.com/SS-2016227423/SystemProgramming.git
+ls
+cd 2016227423_PE3
+ls
+cd ..
+git push -u origin master
+ls
+git clone https://github.com/SS-2016227423/SystemProgramming.git
+git pull https://github.com/SS-2016227423/SystemProgramming.git
+ls
+git push -u origin master
+git commit -m "G"
+cd SPtest
+ls
+cd ..
+rm SPtest
+ls
+rm SPtest/
+git add .
+git commit -m "G"
+git push -u origin master
+ls
+git commit -m "M"
+git push origin master
+git remote https://github.com/SS-2016227423/SystemProgramming.git
+ls
+git init
+git add
+git add .
+git remote add https://github.com/SS-2016227423/SystemProgramming.git
+git init
+gir commit -m "asdf"
+git commit -m "asdf"
+git remote add origin 
+git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
+git push -u origin master
+ls
+git rm 2016227423_PE2-R
+ls
+git rm SPtest
+ls
+rm SPtest

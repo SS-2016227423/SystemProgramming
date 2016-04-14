@@ -10,8 +10,12 @@
 # Last Search Pattern:
 ~MSle0~/* spwd.c: a simplified version of pwd
 
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
 :wq
+:x
 :q
 :s
 :eq
@@ -19,6 +23,8 @@
 :set past
 
 # Search String History (newest to oldest):
+?// 2016227423 ë°±ê¸°ì—´
+?// -- mv ëª…ë ¹ì–´ êµ¬í˜„ 
 ?/* spwd.c: a simplified version of pwd
 ? \<nclude\>
 ? )
@@ -30,15 +36,49 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
-	tthis his is vi editor
-"1	LINE	0
-				 dostat(direntp->d_name)
+"0	CHAR	0
+	d
+"1	CHAR	0
+	d
 "2	LINE	0
-	         dostat( direntp->d_name );
+	" ============================================================================
+	" Netrw Directory Listing                                        (netrw v149)
+	"   /home/sp2016227423/2016227423_PE4/tmp
+	"   Sorted by      name
+	"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+	"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+	" ============================================================================
+	../
+	./
+	.swp
 "3	LINE	0
-	   //printf( "%.12s ", 4+ctime(&info_p->st_mtime));
+	" ============================================================================
+	" Netrw Directory Listing                                        (netrw v149)
+	"   /home/sp2016227423/2016227423_PE4/tmp
+	"   Sorted by      name
+	"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+	"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+	" ============================================================================
+	../
+	./
+	.swp
 "4	LINE	0
+	" ============================================================================
+	" Netrw Directory Listing                                        (netrw v149)
+	"   /home/sp2016227423/2016227423_PE4/tmp
+	"   Sorted by      name
+	"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+	"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+	" ============================================================================
+	../
+	./
+"5	LINE	0
+				 dostat(direntp->d_name)
+"6	LINE	0
+	         dostat( direntp->d_name );
+"7	LINE	0
+	   //printf( "%.12s ", 4+ctime(&info_p->st_mtime));
+"8	LINE	0
 		printf( "%s", modestr );
 		printf( "%4d", (int) info_p->st_nlink);
 		printf( "%-8s", uid_to_name(info_p->st_uid) );
@@ -47,14 +87,6 @@
 		printf( "%.12s", 4+ctime(&info_p->st_mtime));
 		printf( "%s\n", filename);
 	}
-"5	LINE	0
-	
-"6	LINE	0
-	
-"7	LINE	0
-	
-"8	LINE	0
-	
 "9	LINE	0
 	
 "a	CHAR	0
@@ -67,21 +99,41 @@
 	1259
 <dfasdf€kb€kb€kb}struct utmp *utmp_next() {   struct utmp *recp;   if (fd_utmp == -1)      return NULLUT;   if (cur_rec == num_recs && utmp_reload() == 0)      return NULLUT;   recp = (struct utmp *) &utmpbuf[cur_rec * UTSIZE];   cur_rec++;   return recp;}int utmp_open(char *filename) {   fd_utmp = open(filename, O_RDONLY);   cur_rec = num_recs = 0;   return fd_utmp;}void utmp_close() {   if (fd_utmp != -1)      close(fd_utmp);}int utmp_reload() {   int amt_read;   amt_read = read(fd_utmp, utmpbuf, NRECS * UTSIZE);   num_recs = amt_read / UTSIZE;   cur_rec = 0;   return num_recs;}€kI€kIasdf€kb€kb€kb€kb€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kdw
 ""-	CHAR	0
-	i
+	"
 
 # File marks:
-'0  1  1  ~/2016227423_PE3/test2.c
-'1  827  0  ~/2016227423_PE3/test2.c
-'2  1003  11  ~/2016227423_PE3/test2.c
-'3  31  25  ~/2016227423_PE3/test.c
-'4  1  1  ~/2016227423_PE3/test.c
-'5  220  5  ~/2016227423_PE3/test.c
-'6  213  2  ~/2016227423_PE3/test.c
-'7  212  18  ~/2016227423_PE3/test.c
-'8  384  19  ~/2016227423_PE3/test.c
-'9  399  7  ~/2016227423_PE3/test.c
+'0  1  10  ~/2016227423_PE4/test
+'1  1  1  ~/2016227423_PE4/test.c
+'2  1  0  ~/2016227423_PE4/ttt
+'3  1  0  ~/2016227423_PE4/tt
+'4  636  18  ~/2016227423_PE4/test.c
+'5  637  19  ~/2016227423_PE4/test.c
+'6  858  0  ~/2016227423_PE4/test.c
+'7  1463  20  ~/2016227423_PE4/test.c
+'8  1778  35  ~/2016227423_PE4/test.c
+'9  1973  0  ~/2016227423_PE4/test.c
 
 # Jumplist (newest first):
+-'  1  10  ~/2016227423_PE4/test
+-'  1  1  ~/2016227423_PE4/test.c
+-'  1  0  ~/2016227423_PE4/ttt
+-'  1  0  ~/2016227423_PE4/tt
+-'  636  18  ~/2016227423_PE4/test.c
+-'  637  19  ~/2016227423_PE4/test.c
+-'  858  0  ~/2016227423_PE4/test.c
+-'  1463  20  ~/2016227423_PE4/test.c
+-'  1778  35  ~/2016227423_PE4/test.c
+-'  1973  0  ~/2016227423_PE4/test.c
+-'  3127  25  ~/2016227423_PE4/test.c
+-'  3092  19  ~/2016227423_PE4/test.c
+-'  3235  2  ~/2016227423_PE4/test.c
+-'  3  0  ~/2016227423_PE4/tmp
+-'  1  10  ~/2016227423_PE4/asdfg
+-'  1  6  ~/2016227423_PE4/asd
+-'  3577  42  ~/2016227423_PE4/test.c
+-'  2  0  ~/2016227423_PE4/ReadMe.txt
+-'  1  0  ~/2016227423_PE4/ReadMe.txt
+-'  1  16  ~/2016227423_PE4/file1
 -'  1  1  ~/2016227423_PE3/test2.c
 -'  827  0  ~/2016227423_PE3/test2.c
 -'  1003  11  ~/2016227423_PE3/test2.c
@@ -160,28 +212,128 @@
 -'  1  0  /usr/share/vim/vim74/doc/help.txt
 -'  6  0  /usr/share/vim/vim74/doc/help.txt
 -'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  1  0  /usr/share/vim/vim74/doc/help.txt
--'  28  11  ~/SPtest/who3.c
--'  6  0  /usr/share/vim/vim74/doc/help.txt
--'  5  6  /usr/share/vim/vim74/doc/help.txt
--'  681  0  ~/2016227423_PE3/test2.c
 
 # History of marks within files (newest to oldest):
+
+> ~/2016227423_PE4/test
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/2016227423_PE4/test.c
+	"	1	1
+	^	1	2
+	.	1	1
+	+	3682	0
+	+	1	16
+	+	3622	0
+	+	1	1
+	+	3577	42
+	+	3562	0
+	+	1	16
+	+	3502	0
+	+	1	16
+	+	3442	0
+	+	1	16
+	+	3348	0
+	+	1	16
+	+	3254	0
+	+	1	1
+	+	3235	2
+	+	3160	0
+	+	1	1
+	+	3092	19
+	+	3127	25
+	+	3059	0
+	+	1	16
+	+	2948	0
+	+	1	16
+	+	2843	0
+	+	1	16
+	+	2693	0
+	+	1	16
+	+	2544	0
+	+	1	16
+	+	2397	0
+	+	1	16
+	+	2250	0
+	+	1	16
+	+	2103	0
+	+	1	16
+	+	1973	0
+	+	1843	0
+	+	1	1
+	+	1778	35
+	+	1713	0
+	+	1	16
+	+	1587	0
+	+	1	1
+	+	1463	21
+	+	1455	0
+	+	1	16
+	+	1323	0
+	+	1	16
+	+	1191	0
+	+	1	16
+	+	1059	0
+	+	1	16
+	+	967	0
+	+	1	1
+	+	859	0
+	+	851	0
+	+	1	16
+	+	735	0
+	+	1	1
+	+	637	0
+	+	630	0
+	+	1	16
+	+	526	0
+	+	1	16
+	+	422	0
+	+	1	16
+	+	318	0
+	+	1	16
+	+	213	0
+	+	1	16
+	+	107	0
+	+	1	1
+
+> ~/2016227423_PE4/ttt
+	"	1	0
+	^	1	7
+	.	1	6
+	+	1	6
+
+> ~/2016227423_PE4/tt
+	"	1	0
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/2016227423_PE4/asdfg
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/2016227423_PE4/asd
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
+
+> ~/2016227423_PE4/ReadMe.txt
+	"	2	0
+	^	2	0
+	.	1	15
+	+	1	15
+
+> ~/2016227423_PE4/file1
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	16
 
 > ~/2016227423_PE3/test2.c
 	"	1	1
