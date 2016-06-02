@@ -1025,3 +1025,605 @@ ls
 git rm SPtest
 ls
 rm SPtest
+ls
+mkdir 2016227423_PE4
+ls
+cd 2016227423_PE4
+ls
+mkdir tmp
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+cat file1
+ls
+vi file1
+ls
+./test file1 tmp
+ls
+vi ReadMe.txt
+ls
+./test ReadMe.txt tmp
+ls
+cm tmp
+cd tmp
+ls
+cd ..
+ls
+rm readme2.txt
+rm ReadMe2.txt
+ls
+vi ReadMe.txt
+ls
+./test ReadMe.txt
+ls
+./test ReadMe2.txt tmp
+ls
+rm ReadMe2.txt
+ls
+rm file1
+ls
+rm test.c
+ls
+vi test.c
+ls
+rm test
+gcc -o test test.c
+ls
+rm test
+vi test.c
+ls
+gcc -o test test.c
+ls
+vi asd
+ls
+./test asd
+ls
+./test asd asdf
+ls
+rm asd
+rm test
+rm test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+vi asdfg
+ls
+./test asdfg asdd
+ls
+rm LC_ADDRESS\=ko_KR.UTF-8 
+ls
+vi ttt
+ls
+rm test.c
+rm test
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test ttt tttt
+ls
+./test tttt tmp
+ls
+./test tttt ttt
+ls
+rm test
+rm test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test ttt tmp
+ls
+cd tmp
+ls
+cd ..
+ls
+vi tmp
+ls
+vi ttt
+ls
+./test ttt tttt
+ls
+rm test
+rm test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+vi ttt
+ls
+./test ttt tttt
+ls
+./test tttt ttt
+ls
+./test ttt tmp
+ls
+cd tmp
+ls
+cd ..
+ls
+./test ttt tmp
+ls
+rm test.c
+rm test
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test ttt tmp
+ls
+./test ttt tttt
+ls
+./test tttt tmp
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tttt tmp
+ls
+./test tttt ttt
+ls
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test ttt tmp
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test test tmp
+ls
+./test ttt tmp
+ls
+./test ttt tttt
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+rm test
+gcc -o test test.c
+ls
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tttt tmp
+ls
+cd tmp
+ls
+cd ..
+ls
+rm test
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tttt tt
+ls
+rm test.c
+vi test.c
+ls
+rm test
+gcc -o test test.c
+ls
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+rm test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tttt tmp
+ls
+./test tttt ttt
+ls
+rm test
+rm test.c
+vi test.c
+rm test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+./test tttt ttt
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tttt ttt
+ls
+rm test.c
+rm test
+vi test.c
+ls
+gcc -o test test.c
+ls
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tttt ttt
+./test tttt tmp
+rm test
+rm test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tttt t
+./test tttt tmp
+rm test
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tttt ttt
+ls
+./test tttt tmp
+ls
+rm test
+rm test.c
+vi test.c
+gcc -o test test.c
+ls
+./test tttt tt
+./test tttt tmp
+rm test
+rm test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tttt tt
+ls
+./test tt tmp
+ls
+rm test
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+vi test.c
+gcc -o test test.c
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+vi test.c
+gcc -o test test.c
+vi test.c
+ls
+gcc -o test test.c
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tt ttt
+ls
+./test ttt tmp
+ls
+cd tmp
+ls
+..
+cd ..
+./test test ttt tt
+ls
+gcc -o test test.c
+ls
+./test ttt tt
+ls
+rm test
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tt ttt
+ls
+./test ttt tmp
+ls
+cd tmp
+ls
+cd ..
+rm test
+rm test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test ttt tt
+ls
+vi tt
+ls
+./test tt tmp
+ls
+./test tt ttt
+ls
+rm test.c
+rm test
+vi test.c
+ls
+rm test.c
+vi test.c
+ls
+gcc -o test test.c
+ls
+cat tt asdf
+ls
+vi ttt
+ls
+./test ttt tt
+ls
+./test tt tmp
+ls
+cd tmp
+ls
+cd ..
+ls
+vi tt
+ls
+./test tt ttt
+ls
+vi ttt
+ls
+./test ttt tmp
+ls
+rm tmp
+rm tmp/
+ls
+mkdir tmp2
+ls
+./test ttt tmp2
+ls
+cd tmp2
+ls
+cd..
+cd ..
+ls
+./test ttt tt
+ls
+rm tmp
+rm test
+rm test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test tt ttt
+ls
+./test ttt tmp2
+ls
+cd tmp2
+ls
+cd ..
+ls
+rm test.c
+rm test
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test ttt tt
+ls
+./test tt tmp
+ls
+cd tmp
+ls
+cd ..
+ls
+cd..
+cd ..
+ls
+// 2016227423 백기열
+#include <stdio.h>
+#include <stdlib.h>
+#include <memory.h>
+#include <dirent.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <string.h>
+int is_real_dir(const char *path)
+{ struct stat stats; if (lstat(path, &stats) == 0 && S_ISDIR(stats.st_mode))
+{  0; }
+else
+return 1;
+//return lstat(path, &stats) == 0 && S_ISDIR(stats.st_mode);
+}
+int file_del(char *file_name)
+{ // 파일 삭제; int unlink_retval = unlink(file_name); // 원본파일 제거하여 반환값을 넘겨준다.
+if (unlink_retval != 0)// 파일을 올바르게 제거하였는지 검사한다.
+{  1; // 실패했다면 반환값 1을 넘겨준다.; }
+return 0; // 성공했다면 반환값 0을 넘겨준다.
+}
+int main(int argc, char *argv[])
+{ char buffer[1024]; FILE* fdin; FILE* fdout; int nread, i; int file_del_retval; int flag; flag = is_real_dir(argv[2]);
+// 원본 읽기모드로 오픈
+fdin = fopen(argv[1], "rb");
+if (fdin == NULL)// 원본 파일을 여는 데 실패했다면 에러메시지 출력
+{ tf("fopen() failed, %s not found \n", argv[1]);
+exit(1);
+}
+if (flag == 1) // 2번째 명령어가 디렉토리가 아니면 이름 바꾸기 
+{ (argv[2], "wb"); ULL)// 파일을 여는 데 실패했다면 에러메시지 출력
+{ tf("fopen() filed, %s not fount \n", argv[2]);
+exit(1);
+}
+// 원본 복사
+// 정상적으로 읽어 들인 내용이 1바이트 이상인 동안 반복문 수행 
+while ((nread = fread(buffer, 1, 1, fdin)) > 0)
+{ read, 1, fdout) < nread) // 오류시 파일 닫음
+{ );
+fclose(fdout);
+}
+// 정상수행시 닫음
+fclose(fdin);
+fclose(fdout);
+file_del_retval = file_del(argv[1]); // file_del()함수에서 넘긴 반환값을 대입한다.
+if (0 != file_del_retval) { // 파일을 제거하지 못했다면 에러메시지 출력
+printf("file (%s) delete fail. \n", argv[1]);
+}
+else
+{ (argv[1], "wb"); ULL)// 파일을 여는 데 실패했다면 에러메시지 출력
+{ tf("fopen() filed, %s not fount \n", argv[1]);
+exit(1);
+}
+while ((nread = fread(buffer, 1, 1, fdin)) > 0)
+{ read, 1, fdout) < nread) // 오류시 파일 닫음
+{ );
+fclose(fdout);
+}
+// 정상수행시 닫음
+fclose(fdin);
+fclose(fdout);
+chdir("..");
+file_del_retval = file_del(argv[1]); // file_del()함수에서 넘긴 반환값을 대입한다.
+if (0 != file_del_retval) { // 파일을 제거하지 못했다면 에러메시지 출력
+printf("file (%s) delete fail. \n", argv[1]);
+}
+return 0;
+}ls
+ls
+clear
+ls
+cd 2016227423_PE4
+ls
+gcc -o 2016227423_PE4 test.c
+ls
+rm test
+rm tmp
+rename test.c 2016227423_PE4.c
+ls
+mv test.c 2016227423_PE4.c
+ls
+clear
+ls
+vi test
+ls
+./2016227423_PE4 test test2
+ls
+./2016227423_PE4 test2 tmp
+ls
+cd tmp
+ls
+cd ..
+git init
+ls
+git add .
+git commit -m "push"
+ls
+git push origin master
+ls
+cd 2016227423_PE4
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test test.c test.c
+ls
+vi test.c
+ls
+rm test
+gcc -o test test.c
+ls
+./test test.c test.c
+ls
+rm test
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test test.c test.c
+ls
+vi test.c
+ls
+gcc -o test test.c
+ls
+./test test.c test.c
+ls
+cd 2016227423_PE4
+ls
+vi test.c
+ls
+rm test.c
+vi 2016227423_PE4.c
+ls
+cd
+ls
+mkdir 2016227423_PE5
+ls
+cd 2016227423_PE5
+ls
+vi 2016227423_PE5.c
+ls
+cd 2016227423_PE5
+ls
+vi 2016227423_PE5.c
+ls
+gcc -o 2016227423_PE5 2016227423_PE5.c
+vi 2016227423_PE5.c 
+ls
+gcc -o 2016227423_PE5 2016227423_PE5.c
+vi 2016227423_PE5.c 
+ls
+gcc -o 2016227423_PE5 2016227423_PE5.c
+vi 2016227423_PE5.c 
+gcc -o 2016227423_PE5 2016227423_PE5.c
+vi 2016227423_PE5.c 
+ls
+rm 2016227423_PE5.c 
+ls
+vi 2016227423_PE5.c
+ls
+vi 2016227423_PE5.c
