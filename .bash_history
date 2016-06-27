@@ -1,291 +1,3 @@
-./test
-./test -R
-./test -P
-vi test.c
-gcc -o test test.c
-./test
-./test -R
-rm test.c
-vi test.c
-gcc -o test test.c
-./test
-./test -R
-./test
-./test -R
-rm .test.c.swp
-ls
-rm test.c
-vi test.c
-gcc -o test test.c
-./test
-./test -R
-clear
-rm test
-rm test.c
-vi 2016227423_PE2.c
-ls
-gcc -o test test.c
-gcc -o 2016227423_PE 2016227423_PE.c
-gcc -o 2016227423_PE2 2016227423_PE2.c
-clear
-ls
-./2016227423_PE2
-./2016227423_PE2 -R
-git add 2016227423_PE2.c
-git commit -m "2016227423_PE2"
-git push
-git push oring master
-git push origin master
-git push -u origin master
-cd ../
-git add 2016227423_PE2.c
-ls
-cd 2016227423_PE2-R/
-git add 2016227423_PE2.c
-git commit -m "2016227423"
-git push
-git status
-git init
-git add 2016227423_PE2.c
-git push
-git commit
-ls
-cd 2016227423_PE2-R/
-ls
-git init
-git add 2016227423_PE2.c
-git commit -m "dd"
-git log
-git commit -m "TT"
-git push
-git push origin
-git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
-git push origin master
-git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
-qkkndq@naver.com
-git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
-git commit -m "CO"
-git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
-git push origin master
-git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
-git push origin master
-git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
-ls
-cd 2016227423_PE2-R/
-ls
-git add 2016227423_PE2.c
-git commit -m "COm"
-git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
-git push origin master
-git commit -m "COm"
-git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
-git push origin master
-git add 2016227423_PE2.c
-git commit -m "commit"
-git commit -a -m "commit"
-git push origin master
-git push
-ls
-git add 2016227423_PE2.c
-git commit -a -m "dd"
-git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
-git push origin master
-git init
-git push origin master
-git pull
-git push origin master
-ls
-git init
-git add
-git add .
-git commit -m "Commit"
-git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
-git push origin master
-git pull ...
-git pull 
-git push https://github.com/SS-2016227423/SystemProgramming.git
-git remote add origin https://github.com/SS-2016227423/SystemProgramming.git
-git push origin
-git pull https://github.com/SS-2016227423/SystemProgramming.git
-git add 2016227423_PE2.c
-git push origin master
-git pull https://github.com/SS-2016227423/SystemProgramming.git
-ls
-cd 2016227423_PE2-R/
-git init
-ls
-rm README.md
-rm who3.c
-ls
-git push origin master
-cd test_pe2_2
-ls
-cd ..
-git push origin +master
-cd test_pe2_1
-ls
-touch test_pe2_1_3.txt
-ls
-cd ..
-git push origin +master
-git add .
-git status
-git push origin +master
-git commit -m "update"
-git push origin master
-cd ..
-ls
-git init
-rm examples.desktop
-ls
-git commit -am "update"
-git add .
-git commit -am "update"
-git push origin master
-git init
-cd 
-cd 2016227423_PE2-R/
-git init
-git add .
-git add -A
-git status
-git log
-git commit -am "update"
-git push origin master
-ls
-mkdir 2016227423_PE2
-mkdir 2016227423_PE2D
-ls
-mv 2016227423_PE2 ./2016227423_PE2D
-ls
-mv 2016227423_PE2.c ./2016227423_PE2D
-ls
-mv test_pe2_1 ./2016227423_PE2D/
-ls
-mv test_pe2_2 ./2016227423_PE2D/
-ls
-git init
-git commit -am "Dir"
-git add .
-git commit -m "Dir"
-git push origin master
-vi who3.c
-gcc -o who3 who3.c
-ls
-git commit -m "Up"
-git add .
-git commit -m "Up"
-git push origin master
-you
-ls
-git pull
-ls
-git pull https://github.com/SS-2016227423/SystemProgramming.git
-ls
-rm \[\"2016227423_PE2D\"\]/
-ls
-rm ["2016227423_PE2D"]
-ls
-git init
-git add .
-git commit -m "push"
-ls
-git push origin master
-mkdir 2016227423_PE1D
-ls
-mv who3 ./2016227423_PE1D
-mv who3.c ./2016227423_PE1D
-ls
-git init
-git add.
-git commit -m "Push"
-git add .
-git commit -m "Push"
-git push origin master
-ls
-git pull https://github.com/SS-2016227423/SystemProgramming.git
-ls
-git pull https://github.com/SS-2016227423/SystemProgramming.git
-ls
-rm ["2016227423_PE2D"]
-mv ["2016227423_PE2D"] ./2016227423_PE2D
-ls
-git pull https://github.com/SS-2016227423/SystemProgramming.git
-ls
-git add .
-git commit -m "PUSH"
-git push origin master
-git pull https://github.com/SS-2016227423/SystemProgramming.git
-ls
-git commit -m "PUSH"
-git push origin master
-ls
-git pull
-git push origin master
-git commit -m "PUSH"
-git push origin master
-git pull
-ls
-git pull https://github.com/SS-2016227423/SystemProgramming.git
-ls
-cd \[\"2016227423_PE2D\"\]/
-mv 2016227423_PE2.JPG ../2016227423_PE2D
-ls
-cd ..
-ls
-rm ["[\"2016227423_PE2D\"]"/
-ls
-cd 2016227423_PE2D
-ls
-cd ..
-git init
-git commit -m "PUSH"
-git push origin master
-ls
-git status
-git init
-git add .
-git commit -m "PUSH"
-git push origin master
-ls
-mkdir 2016227423_PE3
-ls
-cd 2016227423_PE3/
-ls
-vi 2016227423_PE3.c
-ls
-gcc 2016227423_PE3 2016227423_PE3.c 
-gcc -o test 2016227423_PE3.c 
-vi 2016227423_PE3.c 
-gcc -o test 2016227423_PE3.c 
-gcc -o test 2016227423_PE3.c
-ls
-rv test 
-rm test
-rm 2016227423_PE3.c 
-ls
-vi test.c
-gcc -o test test.c
-ls
-rm test
-rm test.c
-vi test.c
-ls
-gcc -o test test.c
-vi test.c
-ls
-gcc -o test test.c
-cc -o test test.c
-ls
-gcc -o test test.c
-ls
-./test
-cd ..
-ls
-cd 2016227423_PE3
-ls
-mv test ..
-ls
 cd ..
 ls
 ./test
@@ -1998,3 +1710,291 @@ ls
 ./test who who who
 who
 ./test who who who
+ls
+cd 2016227423_PE7
+ls
+vi testt.c
+ls
+rm test
+vi test_backup.c
+ls
+vi test2.c
+ls
+gcc -o test test2.c
+ls
+./test who sort head
+ls
+rm test
+ls
+gcc -o test test2.c
+ls
+./test who sort head
+ls
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who sort head
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who sort head
+ls
+./test who sort head
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who sort head
+./test who who who
+./test who who head
+./test who ls head
+./ ls ls ls
+./test ls ls ls
+./teset ls head head
+./test ls head head
+./test who sort head
+./test ls ls ls
+./test ls ls who
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who sort head
+/test who head head
+head
+sort | head
+who | sort
+./test who sort head
+df
+./test who sort head
+vi test2.c
+ls
+rm test
+gcc -o test test.c
+ls
+gcc -o test test2.c
+ls
+./test who sort head
+./test who who who
+./test who who ls
+./test who sort head
+vi test.c
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who sort head
+sdf
+vi test2.c
+ls
+./test who who who
+./test who ls ls
+./test ls sort head
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who sort head
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who sort head
+ls
+./test who sort head
+vi test2.c
+ls
+rm test
+gcc -o test test.c
+gcc -o test test2.c
+ls
+./test who sort head
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who sort head
+df
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+vi test2.c
+ls
+gcc -o test test2.c
+ls
+vi test2.c
+ls
+gcc -o test test2.c
+ls
+vi test2.c
+ls
+gcc -o test test2.c
+ls
+./test who sort head
+vi test2.c
+ls
+rm test
+ls
+gcc -o test test2.c
+ls
+./test who sort head
+./test who head head
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+vi teset2.c
+ls
+rm teset2.c
+vi test2.c
+ls
+gcc -o test test2.c
+ls
+./test who sort head
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test  who sort head
+./test who sort head
+ls
+rm test
+ls
+gcc -o test test2.c
+ls
+./test ls ls ls
+./test who who who
+./test who who sort
+./test who sort who
+ls
+./test who sort head
+ls
+vi test2.c
+ls
+rm test
+ls
+gcc -o test test2.c
+ls
+./test who sort head
+./test who who who
+./test ls 
+./test ls who who
+./test who sort head
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who srot head
+./test who sort head
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who sort head
+ho
+who
+who | sort
+who | head
+./test who sort head
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who sort head
+vi test2.c
+ls
+rm
+ls
+rm test
+ls
+gcc -o test test2.c
+ls
+./test who sort head
+df
+./test who sort head
+/test ls sort head
+./test ls sort head
+vi test2.c
+ls
+rm test
+gcc -o test test2.c
+ls
+./test who sort head
+ls
+mv test 2016227423_PE7
+ls
+vm test2.c 2016227423_PE7.c
+ls
+vi test2.c
+vi test2.
+ls
+rm test2.
+ls
+vi test2.c
+ls
+vi 2016227423_PE7.c
+ls
+rm test2.c
+rm test_backup.c 
+rm testt.c 
+ls
+claer
+clear
+./2016227423_PE7 who sort head
+vi 2016227423_PE7.c
+git add .
+cd ..
+ls
+git add .
+git git commit -m "asdf"
+git push origin master
+sdf
+git add .
+git commit -m 'UP'
+git push origin master
+ls
+mkdir 2016227423_PE8
+ls
+cd 2016227423_PE8
+ls
+vi 2016227423_PE8.c
+ls
+gcc -o 2016227423_PE8 2016227423_PE8.c 
+ls
+vi 2016227423_PE8.c 
+ls
+gcc -o 2016227423_PE8 2016227423_PE8.c 
+ls
+./2016227423_PE8 
+./2016227423_PE8 test
+./2016227423_PE8 testasdfasdvasd
+cat 2016227423_PE8.c
+ls
+./2016227423_PE8
+clear
+./2016227423_PE8
+ls
+git add .
+git commit 'UP'
+git commit -m 'UP'
+ls
+git push origin master
+ls
+git push origin master
